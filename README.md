@@ -16,6 +16,6 @@ Asenkron veri çekme işlemleri (Redux Thunk ile)
 
 Basit ve kullanıcı dostu arayüz
 
-# Ekran Göüntüsü
+# Ekran Görüntüsü
 
 ![](kayıt.gif)
